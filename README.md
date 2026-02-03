@@ -1,16 +1,17 @@
-## Hi there 👋
+![header](https://github.com/hmRemi/hmRemi/assets/17689226/6387114f-4948-44ad-bbd3-61a061a0a74d)
 
-<!--
-**genodice/genodice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">official builds</h1>
+<div align="center">
+  <p>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+      <!-- Profile Views Badge -->
+      <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=genocide&countColor=%23000000" alt="Profile Views"/>
+      <!-- GitHub Followers Badge -->
+      <img height="25" src="https://img.shields.io/github/followers/genocide?color=000000&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+      <!-- GitHub Stars Badge -->
+      <img height="25" src="https://img.shields.io/github/stars/genocide?color=000000&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+    </div>
+  </p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://github.com/hmRemi/hmRemi/assets/17689226/378b7928-829e-467d-ac4e-631195ac72f7)
